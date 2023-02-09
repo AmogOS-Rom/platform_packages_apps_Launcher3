@@ -145,15 +145,15 @@
     <string name="quickspace_date_format_minimalistic" translatable="false">EEEE, MMMM d</string>
 
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
-    <string name="quick_event_rom_intro_welcome" translatable="false">Welcome to riceDroid!</string>
+    <string name="quick_event_rom_intro_welcome" translatable="false">Welcome to amogOS!</string>
     <string-array name="welcome_message_variants" translatable="false">
         <item>Have a great day!</item>
-        <item>Thank you for flashing riceDroid!</item>
+        <item>Thank you for flashing amogOS!</item>
         <item>Loving us? Send us a soju!</item>
         <item>We\'re not the best, but at least we try!</item>
         <item>Share us on twitter! #gtrcd</item>
         <item>Tap here to begin</item>
-        <item>We love it when you enjoy riceDroid!</item>
+        <item>We love it when you enjoy amogOS!</item>
     </string-array>
 
     <!-- QuickSpace: QuickEvent: Greetings -->
@@ -272,10 +272,10 @@
         <item>Check your to-do list if you have one.</item>
         <item>You can disable quickspace via home settings.</item>
         <item>Go get them!</item>
-        <item>Time to buy some rice!</item>
+        <item>Time to buy some Among Us Plushies!</item>
         <item>Time for lunch!</item>
-        <item>Kalamay is made of glutinous rice.</item>
-        <item>All white rice starts brown.</item>
+        <item>Red is sus</item>
+        <item>All impostors start as crewmates</item>
         <item>Want some soda?</item>
         <item>Always bring water to stay hydrated.</item>
         <item>Space smells like seared steak..</item>
